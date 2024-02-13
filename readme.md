@@ -1,7 +1,10 @@
-referencia: https://www.youtube.com/watch?v=K65wUN-2no4 
+Projeto com react 
+
+```referencia: https://www.youtube.com/watch?v=K65wUN-2no4 
 web ide: https://codesandbox.io/ 
 local ide: vs code
 html referencia:
+```
 
 1. Fundamentos de JS (HTML e CSS)
 - Tipo de dados
